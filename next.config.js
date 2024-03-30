@@ -19,8 +19,7 @@ const nextConfig = withStoreConfig({
       },
       {
         protocol: "https",
-        host
-        name: "hajat.com.ly",
+        hostname: "hajat.com.ly",
       },
       {
         protocol: "https",
