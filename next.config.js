@@ -27,6 +27,10 @@ const nextConfig = withStoreConfig({
       },
       {
         protocol: "https",
+        hostname: "admin.hajat.com.ly",
+      },
+      {
+        protocol: "https",
         hostname: "medusa-public-images.s3.eu-west-1.amazonaws.com",
       },
       {
